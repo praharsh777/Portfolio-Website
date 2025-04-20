@@ -1,5 +1,5 @@
 # Personal Portfolio Website in React
-<img src="./assets/img/main.png" alt="Main Image" width="1266">
+<img src="src/assets/img/main.png" alt="Main Image" width="1266">
 
 Built using:
 
